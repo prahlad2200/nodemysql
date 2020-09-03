@@ -5,8 +5,8 @@ Node express JS with MySQL database
  
  {
     host : "localhost",
-    user : "******",
-    password : "******"
+    user : "username",
+    password : "password"
  }
  
 # run 
